@@ -1,0 +1,18 @@
+
+# vscode
+.vscode
+
+# pycache
+*/__pycache__
+*/__pycache__/*/__pycache__
+*.pyc
+
+db.sqlite3
+data.json
+
+# virtualenv
+env/
+venv/
+
+.env
+zappa_settings.json
